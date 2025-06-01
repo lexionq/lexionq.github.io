@@ -4,6 +4,47 @@
   
     
       <url>
+            <loc>https://lexionq.github.io/blogs/anka-browser-cppv2/</loc>
+            <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lexionq.github.io/blogs/</loc>
+            <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://lexionq.github.io/en/blogs/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="https://lexionq.github.io/blogs/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lexionq.github.io/</loc>
+            <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://lexionq.github.io/en/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="https://lexionq.github.io/"
+              />
+          </url>
+    
+  
+    
+      <url>
             <loc>https://lexionq.github.io/en/blogs/anka-browser-cpp/</loc>
             <lastmod>2025-04-02T22:53:34+03:00</lastmod>
           </url>
@@ -25,23 +66,6 @@
   
     
       <url>
-            <loc>https://lexionq.github.io/</loc>
-            <lastmod>2025-04-02T22:53:34+03:00</lastmod>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://lexionq.github.io/en/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="tr"
-              href="https://lexionq.github.io/"
-              />
-          </url>
-    
-  
-    
-      <url>
             <loc>https://lexionq.github.io/blogs/anka-browser-cpp/</loc>
             <lastmod>2025-04-02T00:00:00+00:00</lastmod>
             <xhtml:link
@@ -53,23 +77,6 @@
               rel="alternate"
               hreflang="tr"
               href="https://lexionq.github.io/blogs/anka-browser-cpp/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://lexionq.github.io/blogs/</loc>
-            <lastmod>2025-04-02T00:00:00+00:00</lastmod>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://lexionq.github.io/en/blogs/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="tr"
-              href="https://lexionq.github.io/blogs/"
               />
           </url>
     

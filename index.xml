@@ -6,8 +6,15 @@
     <description>Recent content on lexion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Wed, 02 Apr 2025 22:53:34 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lexionq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anka Browser 2.0 Yayınlandı!</title>
+      <link>https://lexionq.github.io/blogs/anka-browser-cppv2/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lexionq.github.io/blogs/anka-browser-cppv2/</guid>
+      <description>Anka Browser v2.0 Yayınlandı! #Daha önceki yazımda Anka Browser&amp;rsquo;ı C++ diline geçirdiğimi ve C++ kullandığım ilk versiyonumu yazdığımdan bahsetmiştim. Şimdi ise Anka Browser&amp;rsquo;ın C++ ile yazdığım ikinci versiyonu olan V2.0 yayınlandı. FAKAT ANKA BROWSER&amp;rsquo;I TAMAMEN TEKRAR TANITACAĞIM.&#xA;Anka Browser Nedir? #Anka Browser, Qt kütüphanesi ile tasarlanan, motor olarak QWebEngine kullanan, QWebEngine kullanmasından kaynaklı Chromium tabanlı yerli bir tarayıcıdır. İçerisinde bir çok arama motoru bulundurur. Anka Browser&amp;rsquo;da kullanabileceğiniz arama motorları şunlardır:</description>
+    </item>
     <item>
       <title>Anka Browser Cpp</title>
       <link>https://lexionq.github.io/en/blogs/anka-browser-cpp/</link>
