@@ -6,8 +6,18 @@
     <description>Recent content in Posts on lexionq</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>tr</language>
-    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lexionq.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mango: CLI için şifre yöneticisi</title>
+      <link>https://lexionq.github.io/posts/mango/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://lexionq.github.io/posts/mango/</guid>
+      <description>&lt;h1 id=&#34;mango&#34;&gt;mango&lt;/h1&gt;
+&lt;p&gt;Hepinize merhabalar, ben lexionq. Bugün geliştirmiş olduğum bir şifre yöneticisini tanıtacağım. &amp;ldquo;mango&amp;rdquo; diğer şifre yöneticilerinden farklı olarak CLI için yazılmış, yani terminal üzerinden kullanılabilen bir şifre yöneticisidir. GUI henüz geliştirilmedi, fakat muhtemelolarak 2026 Haziran&amp;rsquo;a kadar GUI eklenecektir.&lt;/p&gt;
+&lt;h2 id=&#34;güvenlik-seviyesi&#34;&gt;Güvenlik Seviyesi&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;mango&amp;quot;da tüm şifreleriniz kullandığınız bir ana şifre sayesinde AES-256 kullanarak şifrelenir ve bir dosyada tutulur. Ana şifreniz doğrulanabilmek için ana şifrenizden hash üretilerek bir dosyada tutulur. Tüm şifreleriniz ana şifreniz ile şifrelenir ve bu yüzden onlarıokuyabilmek için ana şifreniz gerekir. Şifreleriniz lokalde tutulur, hiçbir 3. tarafın eline geçmez.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>İlk yazı</title>
       <link>https://lexionq.github.io/posts/ilkyaz%C4%B1/</link>
