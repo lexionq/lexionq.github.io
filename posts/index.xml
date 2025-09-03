@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on lexionq</title>
+    <link>https://lexionq.github.io/posts/</link>
+    <description>Recent content in Posts on lexionq</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>tr</language>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lexionq.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>İlk yazı</title>
+      <link>https://lexionq.github.io/posts/ilkyaz%C4%B1/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://lexionq.github.io/posts/ilkyaz%C4%B1/</guid>
+      <description>&lt;h1 id=&#34;hoşgeldiniz&#34;&gt;Hoşgeldiniz&lt;/h1&gt;
+&lt;p&gt;Hugo&amp;rsquo;daki ilk yazıma hoşgeldiniz! Devamı için RSS&amp;rsquo;imi takibe alabilirsiniz!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

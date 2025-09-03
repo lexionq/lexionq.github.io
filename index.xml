@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>lexionq</title>
+    <link>https://lexionq.github.io/</link>
+    <description>Recent content on lexionq</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>tr</language>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lexionq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hakkımda</title>
+      <link>https://lexionq.github.io/hakk%C4%B1mda/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://lexionq.github.io/hakk%C4%B1mda/</guid>
+      <description>&lt;h1 id=&#34;lexionq&#34;&gt;lexionq&lt;/h1&gt;
+&lt;p&gt;Hepinize merhabalar, ben lexionq. Orta seviye yazılımcı ve amatör bir pentester&amp;rsquo;ım. Küçüklüğümden bu yana sürekli teknolojiyle ilgilendim, uğraştım, teknolojiyi bir hobi haline getirdim. Linux kullanıcısı olduğumu da belirteyim.&lt;/p&gt;
+&lt;h2 id=&#34;hobilerim&#34;&gt;Hobilerim&lt;/h2&gt;
+&lt;p&gt;Hayatım boyu kendime çok güzel meşgaleler edindim. Hadi bunları listeleyelim:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Geliştiricilik&lt;/li&gt;
+&lt;li&gt;Pentesting&lt;/li&gt;
+&lt;li&gt;Teknoloji&lt;/li&gt;
+&lt;li&gt;Matematik&lt;/li&gt;
+&lt;li&gt;Tarih&lt;/li&gt;
+&lt;li&gt;İslam Bilimleri&lt;/li&gt;
+&lt;li&gt;Fen Bilimleri&lt;/li&gt;
+&lt;li&gt;Gökbilim&lt;/li&gt;
+&lt;li&gt;Spor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teknik-bilgi-birikimim&#34;&gt;Teknik Bilgi Birikimim&lt;/h2&gt;
+&lt;p&gt;Proje geliştirirken kullandığım tüm araçlar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;C, C++&lt;/li&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;li&gt;HTML, CSS, JS&lt;/li&gt;
+&lt;li&gt;Qt&lt;/li&gt;
+&lt;li&gt;Git, GitHub&lt;/li&gt;
+&lt;li&gt;Linux, Mint&lt;/li&gt;
+&lt;li&gt;Bash&lt;/li&gt;
+&lt;li&gt;Neovim&lt;/li&gt;
+&lt;li&gt;Kali Linux&lt;/li&gt;
+&lt;li&gt;Parrot OS&lt;/li&gt;
+&lt;li&gt;Ngrok&lt;/li&gt;
+&lt;li&gt;Arduino&lt;/li&gt;
+&lt;li&gt;VsCode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;favoriler&#34;&gt;Favoriler&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;En sevdiğim programlama dili: Go&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>İlk yazı</title>
+      <link>https://lexionq.github.io/posts/ilkyaz%C4%B1/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://lexionq.github.io/posts/ilkyaz%C4%B1/</guid>
+      <description>&lt;h1 id=&#34;hoşgeldiniz&#34;&gt;Hoşgeldiniz&lt;/h1&gt;
+&lt;p&gt;Hugo&amp;rsquo;daki ilk yazıma hoşgeldiniz! Devamı için RSS&amp;rsquo;imi takibe alabilirsiniz!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
